@@ -1,0 +1,2 @@
+# R5T.Solgene.Base
+An IVisualStudioSolutionFileGenerator service definition base library for the Solgene project.
