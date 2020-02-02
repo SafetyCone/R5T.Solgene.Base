@@ -10,6 +10,6 @@ namespace R5T.Solgene
     /// </summary>
     public interface IVisualStudioSolutionFileGenerator
     {
-        SolutionFile GenerateSolutionFile();
+        SolutionFile GenerateVisualStudioSolutionFile();
     }
 }
